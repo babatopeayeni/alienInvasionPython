@@ -1,1 +1,1 @@
-# alienInvasionPython
+# alienInvasionPython - Alien Invasion Python Game.
